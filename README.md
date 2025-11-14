@@ -27,14 +27,6 @@ Justificativa: Faturamento 10,7% inferior + score mais baixo + vantagens operaci
 ## 🛠️ Tecnologias
 Python 3.x | GooglePython 3.x | Google Colab | Pandas | Matplotlib | NumPy
 
-alura-store-analysis/
-├── Challenge-Alura-Store.ipynb
-├── loja_1.csv
-├── loja_2.csv
-├── loja_3.csv
-├── loja_4.csv
-└── README.md
-
 ## 🚀 Como Usar
 
 **Google Colab:**
